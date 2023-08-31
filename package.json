@@ -1,0 +1,16 @@
+{
+  "name": "api-ts-solid-tdd",
+  "version": "1.0.0",
+  "description": "API made in TypeScript with SOLID principles and TDD",
+  "main": "index.js",
+  "author": "Carlos Israel",
+  "license": "MIT",
+  "scripts": {
+    "test": "vitest"
+  },
+  "devDependencies": {
+    "@types/node": "^20.5.4",
+    "typescript": "^5.2.2",
+    "vitest": "^0.34.2"
+  }
+}
